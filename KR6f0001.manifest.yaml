@@ -48,7 +48,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0001_000.yaml, hash: 'sha256:17ed6f73b497b83c0f7ec9f6b718fe6d79a1f4713011bef37ac84fbf6c5f56bf'}
+  - {seq: 0, filename: KR6f0001_000.yaml, hash: 'sha256:af97653780989d7038f0dc4769ce4d3605eea372c87aa70cddd64f3d337fa93d'}
   - {seq: 1, filename: KR6f0001_001.yaml, hash: 'sha256:5bf13928c4b074efa00f4871ddf96751e4e2f2958ca9eb63ab5e3866f8b37be5'}
   - {seq: 2, filename: KR6f0001_002.yaml, hash: 'sha256:33cd819b3583632bf3ee63b39bacfa140538c14249c4ea222f070edda2b21d95'}
   - {seq: 3, filename: KR6f0001_003.yaml, hash: 'sha256:2694f24742fdb9f53b71f6cc5177c762436168f9b5acfd67b92da919cb1f51ed'}
@@ -170,7 +170,7 @@ assets:
   - {seq: 119, filename: KR6f0001_119.yaml, hash: 'sha256:699722c05123d03b8ca4a4453d44281aeae7ce9a9d7263deb6a5bdc994be85ce'}
   - {seq: 120, filename: KR6f0001_120.yaml, hash: 'sha256:7fb1f05e4591a47b4ec4459c458abd9a637ebdda3598daff48604da148e6e67e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0001_000.markers.yaml, hash: 'sha256:8a6f10950a04be4669dd1b69186080faced37744f7dd87bc10f72029b3b7923d'}
+  - {seq: 0, role: markers, filename: assets/KR6f0001_000.markers.yaml, hash: 'sha256:096a2f0144ad2b4ef8daf7b8bdee5420ff02f6efda18a482e8de533cbf64c448'}
   - {seq: 1, role: markers, filename: assets/KR6f0001_001.markers.yaml, hash: 'sha256:e2f952c4f55c5e315d3a81945a7a2bfd3381cf5651dbfab925251a0beb6339f5'}
   - {seq: 2, role: markers, filename: assets/KR6f0001_002.markers.yaml, hash: 'sha256:90d671a6ba56c8a344e678580bac9b28406d68b40f42168c7e859a80a572969e'}
   - {seq: 3, role: markers, filename: assets/KR6f0001_003.markers.yaml, hash: 'sha256:9d5794d12e7ff36744c444ea84be1e7df1607bba62a5eef01ea092ae03a75689'}
@@ -296,7 +296,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6f0001_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 并序
@@ -306,7 +306,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6f0001_T_000-mulu-2
     span:
-    - front
+    - body
     - 679
     - 679
   label: 述
@@ -3462,7 +3462,7 @@ table_of_contents:
   label: 49 廣博仙人會
   type: mulu
   level: 1
-hash: sha256:65b1f228663eb6969b1b0463457278376cc9e7c4180c56aea90007b643508b78
+hash: sha256:fb6abcc358f266fdd6af886e5704c9ee7ad048841daf734b60109a2cd9a00ebb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
